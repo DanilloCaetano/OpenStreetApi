@@ -1,3 +1,3 @@
 # OpenStreetApi :)
-ENDPOINT:  /getInfos?lat={LAT}6&lon={LON}
+ENDPOINT:  /getInfos?lat={LAT}&lon={LON} </br>
 RESPONSE: {country: string, postalCode: string, city: string, state: string, error: string}
