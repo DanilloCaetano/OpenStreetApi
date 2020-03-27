@@ -28,8 +28,6 @@ namespace OpenStreetMapApi.Services
 
                 var strXml = await response.Content.ReadAsStringAsync();
 
-                
-
                 XmlDocument doc = new XmlDocument();
                 doc.LoadXml(strXml);
 
