@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using OpenStreetMapApi.Model;
+﻿using OpenStreetMapApi.Model;
 using OpenStreetMapApi.Services.Interfaces;
 using System.Linq;
 using System.Net.Http;
