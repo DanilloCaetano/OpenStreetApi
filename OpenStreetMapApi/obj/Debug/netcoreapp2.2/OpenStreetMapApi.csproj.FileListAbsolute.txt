@@ -1,0 +1,14 @@
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\bin\Debug\netcoreapp2.2\OpenStreetMapApi.deps.json
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\bin\Debug\netcoreapp2.2\OpenStreetMapApi.runtimeconfig.json
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\bin\Debug\netcoreapp2.2\OpenStreetMapApi.runtimeconfig.dev.json
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\bin\Debug\netcoreapp2.2\OpenStreetMapApi.dll
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.csprojAssemblyReference.cache
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.RazorAssemblyInfo.cache
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.RazorAssemblyInfo.cs
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.AssemblyInfo.cs
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.RazorTargetAssemblyInfo.cache
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\bin\Debug\netcoreapp2.2\OpenStreetMapApi.pdb
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.dll
+C:\Users\danil\source\repos\OpenStreetMapApi\OpenStreetMapApi\obj\Debug\netcoreapp2.2\OpenStreetMapApi.pdb
